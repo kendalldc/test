@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To veiw this project in your browser, visit this link https://hardcore-shannon-3db316.netlify.app
+
+
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
 
 ## Available Scripts
 
